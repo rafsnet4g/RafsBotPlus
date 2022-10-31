@@ -4,10 +4,14 @@ BOT WHATSAPP E TELEGRAM COM API MP
 
 JOGA O ARQUIVO ZIP NA PASTA ROOT
 
-unzip RafsBotPlus*.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh
+unzip RafsBotPlus.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh
 
-wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+DOWNLOAD DO ZIP DIRETO NA PASTA ROOT
+
+wget https://raw.githubusercontent.com/rafsnet4g/RafsBotPlus/main/RafsBotPlus.zip
+
+wget -qO- https://raw.githubusercontent.com/rafsnet4g/RafsBotPlus/main/nvm/install.sh | bash
 
 
 
-nvm install 16
+nvm install 18
