@@ -4,6 +4,7 @@ BOT WHATSAPP E TELEGRAM COM API MP
 
 # PROCEDIMENTOS
 
+
 unzip RafsBotPlus.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh
 ```
 
